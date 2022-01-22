@@ -1,7 +1,7 @@
 # QueryDsl
 인프런 김영한님의 QueryDsl을 들은 후 기록한 곳입니다. 
 
-22.01.20
+# 22.01.20
 - (강의) JPQL Vs QueryDSL
 - (강의) 기본 Q-TYPE 활용
 - (강의) 검색 조건 쿼리
@@ -21,3 +21,6 @@
 - (강의) 동적쿼리 - BooleanBuilder
 - (강의) 동적 쿼리 - Where 다중 파라미터 사용
 - (강의) 수정, 삭제 벌크 연산 
+
+# 22.01.20
+- (정리) Spring에서 QUERY DSL 셋팅 및 QType 생성 방법 정리(https://ojt90902.tistory.com/693)
