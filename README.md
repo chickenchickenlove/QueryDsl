@@ -24,3 +24,7 @@
 
 # 22.01.20
 - (정리) Spring에서 QUERY DSL 셋팅 및 QType 생성 방법 정리(https://ojt90902.tistory.com/693)
+
+
+# 22.01.25
+- (정리) Query DSL을 이용한 동적 쿼리 생성 방법 정리(https://ojt90902.tistory.com/695)
